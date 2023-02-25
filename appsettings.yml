@@ -37,7 +37,7 @@ Servers:
       ApiPort: 1212
       UpdateType: "Git"
       Updates:
-        BaseUrl: "https://github.com/trvova123/ss14-Orienta-build.git"
+        BaseUrl: "https://github.com/trvova123/orienta-ss14.git"
       EnvironmentVariables:
         DOTNET_TieredPGO: 1
         DOTNET_TC_QuickJitForLoops: 1
